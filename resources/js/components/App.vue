@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <nav-block></nav-block>
       <v-content>
-        <v-container class="fill-height" fluid>
+        <v-container class="fill-height">
           <v-row align="center" justify="center">
             <v-col class="text-center">
               <router-view></router-view>
